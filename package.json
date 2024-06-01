@@ -1,0 +1,14 @@
+{
+  "name": "react-prep",
+  "version": "1.0.0",
+  "description": "React Practise",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shane Dsouza",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
